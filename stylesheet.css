@@ -1,0 +1,120 @@
+/* CSSのリセット（消さないでください） */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ここからCSSを記述してください */
+
+
+.header2{
+ background-color: #26d0c9;
+height:95px;
+width:1500
+}
+li {list-style:none;
+float:left;
+  
+  
+  color: #fff;
+  
+}
+
+div{ float:left;
+}
+
+.title{
+font-size:36px;
+padding:1px 1px 20px 1px;
+margin:20px 20px 0px 40px;
+font-family:"Avenir Next";
+color:#fff;
+
+}
+
+
+.pro{margin:16px 20px 17px 20px;
+font-size:20;
+}
+
+.mana{margin:16px 20px 17px 20px;
+font-size:20;
+}
+
+.oto{margin:16px 20px 17px 20px;
+  font-size:20;
+}
+h1,h2,h4,textarea{ 
+  
+}
+
+
+.hel{ padding-top:100;
+      font-size:150;
+      font-family:"Avenir Next";
+padding-left:80;
+}
+
+span{ color:red;
+}
+
+.prog{font-size:65;
+      padding:1 1 120 90;
+}
+
+.manab{font-size:30;
+      
+       border-bottom:  3px solid #dee7ec;
+       margin-left:90;
+       padding-bottom:15;
+}
+
+.icon{margin-top:50;
+  
+  
+}
+.icon1{
+      margin-left:90;
+      
+      
+}
+.icon2{
+       margin-left:40;
+}
+
+
+.icon3{
+       margin-left:40;
+}
+
+.icon4{
+      margin-left:40;
+}
+.ht{padding-top:40;
+    font-size:30;
+    font-family:"Avenir Next";
+    padding-bottom:150;
+}
+.oto2 {font-size:30;
+       border-bottom: 2px solid #dee7ec;
+       
+       margin-left:80;
+       
+}
+
+.text{padding-left:80px;
+     padding-top:50px;
+     
+}
+textarea,input{
+      margin-top:10px;
+      margin-bottom:30px;
+      
+      border:10px solid #dee7ec;
+      
+      
+}
