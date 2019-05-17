@@ -3,8 +3,8 @@ html, body,
 ul, ol, li,
 h1, h2, h3, h4, h5, h6, p,
 form, input, div {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 
@@ -14,7 +14,7 @@ form, input, div {
 .header2{
  background-color: #26d0c9;
 height:95px;
-width:1500
+width:1500px
 }
 li {list-style:none;
 float:left;
@@ -38,71 +38,71 @@ color:#fff;
 
 
 .pro{margin:16px 20px 17px 20px;
-font-size:20;
+font-size:20px;
 }
 
 .mana{margin:16px 20px 17px 20px;
-font-size:20;
+font-size:20px;
 }
 
 .oto{margin:16px 20px 17px 20px;
-  font-size:20;
+  font-size:20px;
 }
 h1,h2,h4,textarea{ 
   
 }
 
 
-.hel{ padding-top:100;
-      font-size:150;
+.hel{ padding-top:100px;
+      font-size:150px;
       font-family:"Avenir Next";
-padding-left:80;
+padding-left:80px;
 }
 
 span{ color:red;
 }
 
-.prog{font-size:65;
-      padding:1 1 120 90;
+.prog{font-size:65px;
+      padding:1px 1px 120px 90px;
 }
 
-.manab{font-size:30;
+.manab{font-size:30px;
       
        border-bottom:  3px solid #dee7ec;
-       margin-left:90;
-       padding-bottom:15;
+       margin-left:90px;
+       padding-bottom:15px;
 }
 
-.icon{margin-top:50;
+.icon{margin-top:50px;
   
   
 }
 .icon1{
-      margin-left:90;
+      margin-left:90px;
       
       
 }
 .icon2{
-       margin-left:40;
+       margin-left:40px;
 }
 
 
 .icon3{
-       margin-left:40;
+       margin-left:40px;
 }
 
 .icon4{
-      margin-left:40;
+      margin-left:40px;
 }
-.ht{padding-top:40;
-    font-size:30;
+.ht{padding-top:40px;
+    font-size:30px;
     font-family:"Avenir Next";
     padding-bottom:150;
 }
-.oto2 {font-size:30;
+.oto2 {font-size:30px;
        border-bottom: 2px solid #dee7ec;
        
-       margin-left:80;
+       margin-left:80px;
        
 }
 
@@ -118,3 +118,4 @@ textarea,input{
       
       
 }
+
